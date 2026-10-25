@@ -1,0 +1,111 @@
+[
+  {
+    "id": "R001",
+    "name": "National De-addiction Helpline",
+    "number": "14446",
+    "kind": "Substance-use support",
+    "description": "Government-listed information, counselling, guidance and referral support for people affected by substance use and their families.",
+    "website": "https://nmba.dosje.gov.in/",
+    "phone_link": "tel:14446",
+    "source_name": "Ministry of Social Justice & Empowerment / NMBA",
+    "checked_on": "2026-10-23",
+    "note": "Confirm number and service details before public deployment."
+  },
+  {
+    "id": "R002",
+    "name": "Tele-MANAS",
+    "number": "14416",
+    "alternate_number": "1800-89-14416",
+    "kind": "Mental-health support",
+    "description": "Government tele-mental-health service. For immediate life-threatening danger, use emergency services rather than waiting for support.",
+    "website": "https://telemanas.mohfw.gov.in/",
+    "phone_link": "tel:14416",
+    "source_name": "Directorate General of Health Services / MoHFW",
+    "checked_on": "2026-10-23",
+    "note": "Official sources list 14416 and 1800-89-14416; verify before launch."
+  },
+  {
+    "id": "R003",
+    "name": "Emergency Response Support System",
+    "number": "112",
+    "kind": "Emergency",
+    "description": "Unified pan-India emergency number for immediate danger, including medical emergencies. Do not wait for an AI response.",
+    "website": "https://www.mha.gov.in/en/commoncontent/emergency-response-support-system-erss",
+    "phone_link": "tel:112",
+    "source_name": "Ministry of Home Affairs",
+    "checked_on": "2026-10-23",
+    "note": "For immediate emergencies."
+  },
+  {
+    "id": "R004",
+    "name": "MANAS National Narcotics Helpline",
+    "number": "1933",
+    "kind": "Drug-related reporting",
+    "description": "For reporting drug-related matters such as illegal trafficking and sale. Not a de-addiction counselling or mental-health helpline.",
+    "website": "https://www.india.gov.in/category/welfare-of-families/subcategory/family-welfare/details/website-of-manas-national-narcotics-helpline",
+    "phone_link": "tel:1933",
+    "source_name": "National Portal of India",
+    "checked_on": "2026-10-23",
+    "note": "Use for drug-related reporting, not treatment."
+  },
+  {
+    "id": "R005",
+    "name": "Nasha Mukt Bharat Abhiyaan",
+    "number": "",
+    "kind": "Government programme",
+    "description": "Official information, prevention resources, public awareness materials and programme information related to substance-use prevention and support.",
+    "website": "https://nmba.dosje.gov.in/",
+    "phone_link": "",
+    "source_name": "Department of Social Justice & Empowerment",
+    "checked_on": "2026-10-23",
+    "note": "Official programme site."
+  },
+  {
+    "id": "R006",
+    "name": "eSanjeevani",
+    "number": "",
+    "kind": "Government telemedicine",
+    "description": "Government telemedicine platform. Use official instructions to determine available consultation options; it is not a specialised addiction helpline.",
+    "website": "https://esanjeevani.mohfw.gov.in/",
+    "phone_link": "",
+    "source_name": "Ministry of Health & Family Welfare",
+    "checked_on": "2026-10-23",
+    "note": "General telemedicine resource; service access can vary."
+  },
+  {
+    "id": "R007",
+    "name": "Ayushman Bharat Digital Mission (ABDM)",
+    "number": "",
+    "kind": "Digital health programme",
+    "description": "Official information on India's digital health ecosystem and related services. It does not replace clinical care or emergency support.",
+    "website": "https://abdm.gov.in/",
+    "phone_link": "",
+    "source_name": "National Health Authority",
+    "checked_on": "2026-10-23",
+    "note": "General health-system information."
+  },
+  {
+    "id": "R008",
+    "name": "Ministry of Health & Family Welfare",
+    "number": "",
+    "kind": "Official health portal",
+    "description": "Official health ministry information, programmes and public-health resources.",
+    "website": "https://www.mohfw.gov.in/",
+    "phone_link": "",
+    "source_name": "Government of India",
+    "checked_on": "2026-10-23",
+    "note": "Confirm specific programme page and details."
+  },
+  {
+    "id": "R009",
+    "name": "National Institute of Mental Health and Neurosciences (NIMHANS)",
+    "number": "",
+    "kind": "Specialist institution",
+    "description": "National mental-health and neuroscience institute; consult its official site for verified services and educational resources.",
+    "website": "https://nimhans.ac.in/",
+    "phone_link": "",
+    "source_name": "NIMHANS",
+    "checked_on": "2026-10-23",
+    "note": "Do not imply this website is an emergency helpline."
+  }
+]
